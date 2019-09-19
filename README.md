@@ -3,16 +3,12 @@
 - Dailiv & Cryptographic - Rotor
 - Dailiv & Cryptographic - Stator
 
-**Release date:** TBA<br>
+**Release date:** 27 September 2019<br>
 
 **If you liked** the release, please consider becoming our patron on Patreon!
 With your help we’ll be able to pay more musicians to make more freely available
 music. Read on how the support works and why it’s important:
 https://www.patreon.com/vykhodsily_podcast
-
-## Description
-
-TODO
 
 ## Follow us and artists
 
